@@ -1,0 +1,15 @@
+.right {
+  float: right;
+}
+
+.panel-body img {
+  max-width: 100%;
+}
+
+.panel-body {
+  padding: 0;
+}
+
+.panel-body p {
+  padding: 10px 15px 5px 15px;
+}
